@@ -1,0 +1,6 @@
+{
+  "name": "人生重啟冒險日誌 (Life Reset Quest)",
+  "description": "莫蘭迪療癒手繪風個人成長與人生重啟互動手帳，包含早晨翻轉卡、日間四個覺察鬧鐘與行事曆連動、人生遊戲六要素及歷史回顧。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
